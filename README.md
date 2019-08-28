@@ -11,7 +11,7 @@ URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8487359&isnumber=84
 ________________________________________________________________________________________
 3. Since the LTE signal has a sampling rate (i.e. the signal is discrete in the time domain), the main feature of modeling the time delay is that the time delay is split into discrete shifts and non-discrete shifts. A discrete shift indicates how many discrete samples the transmitted signal should be moved, and a non-discrete shift indicates how much phase shift should be applied to the discreetly shifted signal. 
 
-!!!IMPORTANT!!! the simulation of time delay consists of two steps: (a) discrete shift without phase rotation and (b) phase rotation according to non-discrete shift. 
+!!!IMPORTANT!!! the simulation of time delay consists of two steps: (a) discrete shift without phase rotation and (b) phase rotation according to the non-discrete shift. 
 ________________________________________________________________________________________
 4. LoS and NLoS signals are add together to get a multipath channel effect.
 5. Signal processing. 
